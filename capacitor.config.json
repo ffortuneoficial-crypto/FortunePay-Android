@@ -1,0 +1,6 @@
+{
+  "appId":"com.fortune.pay",
+  "appName":"FortunePay",
+  "webDir":"dist",
+  "server":{"androidScheme":"https"}
+}
